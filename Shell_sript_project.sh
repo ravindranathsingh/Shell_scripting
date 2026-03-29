@@ -11,7 +11,7 @@
 #
  set -x #debug
  set -e #exit if any fails
- set -o #pipefail
+ set -o pipefail
 
  echo "Hello! Hope you are doing good."
  echo "Let's get started."
